@@ -16,7 +16,7 @@
     
   ## Description:
   An app that allows you to keep track of your online and offline budget. Once it comes back online will refreshed your transactions.
-
+  <img src="https://github.com/adumbcoder/Budget_Tracker/blob/main/screenshot/Screenshot%202021-04-05%20222540.jpg" alt="alt text" width="1000" height="460">
   ### Installation:
   Download the repo from https://github.com/adumbcoder/Budget_Tracker
 
